@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: demo
+  datasource:
+    url: jdbc:mysql://localhost:3306/java_backend
+    username: app_goal
+    password: goal_2024!
+server:
+  port: 9001
