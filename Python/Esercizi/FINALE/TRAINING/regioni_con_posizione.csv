@@ -1,0 +1,241 @@
+Anno,Regione,PercVarUnitLavoroPesca,PercValAggPesca,ProdInMiglEur,Posizione
+2001,Piemonte,11.89,0.01,59.218,Nord-ovest
+2001,Valle d'Aosta,200.0,0.01,372.0144,Nord-ovest
+2001,Lombardia,162.04,0.01,119.4304,Nord-ovest
+2001,Trentino-Alto Adige,-0.67,0.02,43.3656,Nord-est
+2001,Veneto,-2.67,0.16,24.3476,Nord-est
+2001,Friuli-Venezia Giulia,22.38,0.29,50.0866,Nord-est
+2001,Liguria,-2.82,0.11,38.0117,Nord-ovest
+2001,Emilia-Romagna,-6.31,0.12,64.7482,Nord-est
+2001,Toscana,34.66,0.09,81.2459,Centro
+2001,Umbria,50.0,0.03,58.0179,Centro
+2001,Marche,-5.65,0.46,56.4686,Centro
+2001,Lazio,10.94,0.03,52.7949,Centro
+2001,Abruzzo,4.74,0.18,23.4148,Centro
+2001,Molise,-16.15,0.31,70.0927,Sud
+2001,Campania,8.43,0.05,44.2093,Sud
+2001,Puglia,5.66,0.39,40.0972,Sud
+2001,Basilicata,108.7,0.02,94.9162,Sud
+2001,Calabria,5.13,0.14,32.3177,Sud
+2001,Sicilia,-7.85,0.46,36.2437,Isole
+2001,Sardegna,0.81,0.19,38.8866,Isole
+2002,Piemonte,-11.25,0.01,52.2572,Nord-ovest
+2002,Valle d'Aosta,-66.67,0.01,123.1389,Nord-ovest
+2002,Lombardia,-55.65,0.01,52.8148,Nord-ovest
+2002,Trentino-Alto Adige,-2.7,0.02,43.1246,Nord-est
+2002,Veneto,-0.39,0.14,20.795,Nord-est
+2002,Friuli-Venezia Giulia,-16.77,0.28,43.1163,Nord-est
+2002,Liguria,-0.17,0.13,30.9476,Nord-ovest
+2002,Emilia-Romagna,-0.26,0.1,72.0314,Nord-est
+2002,Toscana,-29.19,0.08,45.7511,Centro
+2002,Umbria,-34.81,0.03,38.8994,Centro
+2002,Marche,8.98,0.42,53.8849,Centro
+2002,Lazio,2.2,0.04,34.6012,Centro
+2002,Abruzzo,0.43,0.19,17.9348,Centro
+2002,Molise,9.8,0.26,52.4957,Sud
+2002,Campania,-2.06,0.06,28.8925,Sud
+2002,Puglia,-4.16,0.42,34.1677,Sud
+2002,Basilicata,-54.17,0.02,69.5794,Sud
+2002,Calabria,9.53,0.1,19.7242,Sud
+2002,Sicilia,7.43,0.39,24.9143,Isole
+2002,Sardegna,-0.38,0.27,33.2133,Isole
+2003,Piemonte,-13.38,0.01,52.369,Nord-ovest
+2003,Valle d'Aosta,0.0,0.01,335.4186,Nord-ovest
+2003,Lombardia,-20.72,0.01,106.2597,Nord-ovest
+2003,Trentino-Alto Adige,-15.28,0.02,39.6644,Nord-est
+2003,Veneto,-10.28,0.14,19.5813,Nord-est
+2003,Friuli-Venezia Giulia,-9.08,0.24,34.3467,Nord-est
+2003,Liguria,-19.61,0.14,29.4048,Nord-ovest
+2003,Emilia-Romagna,-8.53,0.08,54.3578,Nord-est
+2003,Toscana,-21.88,0.09,74.9322,Centro
+2003,Umbria,-23.86,0.03,53.2934,Centro
+2003,Marche,-9.17,0.41,39.2768,Centro
+2003,Lazio,-25.96,0.05,39.8474,Centro
+2003,Abruzzo,-7.38,0.21,14.3875,Centro
+2003,Molise,-17.54,0.28,37.5743,Sud
+2003,Campania,-0.96,0.09,35.9726,Sud
+2003,Puglia,-6.34,0.44,38.5976,Sud
+2003,Basilicata,-13.64,0.02,97.1754,Sud
+2003,Calabria,1.31,0.17,25.0669,Sud
+2003,Sicilia,-4.07,0.48,22.3657,Isole
+2003,Sardegna,-3.54,0.29,27.3712,Isole
+2004,Piemonte,-1.63,0.0,53.4999,Nord-ovest
+2004,Valle d'Aosta,0.0,0.01,297.4268,Nord-ovest
+2004,Lombardia,1.51,0.01,118.3025,Nord-ovest
+2004,Trentino-Alto Adige,-6.56,0.02,41.8275,Nord-est
+2004,Veneto,6.63,0.14,20.2935,Nord-est
+2004,Friuli-Venezia Giulia,2.44,0.24,32.4553,Nord-est
+2004,Liguria,8.69,0.17,48.8892,Nord-ovest
+2004,Emilia-Romagna,2.16,0.1,57.5014,Nord-est
+2004,Toscana,7.18,0.09,79.9598,Centro
+2004,Umbria,-8.96,0.03,61.8631,Centro
+2004,Marche,10.58,0.46,41.8168,Centro
+2004,Lazio,-2.38,0.06,61.3062,Centro
+2004,Abruzzo,-6.19,0.16,10.8345,Centro
+2004,Molise,-8.58,0.27,39.1959,Sud
+2004,Campania,7.4,0.1,47.3885,Sud
+2004,Puglia,5.2,0.38,38.2315,Sud
+2004,Basilicata,-5.26,0.02,105.0855,Sud
+2004,Calabria,0.72,0.17,24.8241,Sud
+2004,Sicilia,8.82,0.51,25.2605,Isole
+2004,Sardegna,3.43,0.32,30.6931,Isole
+2005,Piemonte,-0.83,0.0,41.0056,Nord-ovest
+2005,Valle d'Aosta,0.0,0.01,230.5,Nord-ovest
+2005,Lombardia,13.37,0.01,89.6535,Nord-ovest
+2005,Trentino-Alto Adige,-45.61,0.01,34.7035,Nord-est
+2005,Veneto,-10.93,0.11,16.9397,Nord-est
+2005,Friuli-Venezia Giulia,-15.16,0.2,26.3922,Nord-est
+2005,Liguria,5.92,0.17,38.1539,Nord-ovest
+2005,Emilia-Romagna,-7.63,0.13,51.4307,Nord-est
+2005,Toscana,6.8,0.07,61.3722,Centro
+2005,Umbria,-1.64,0.02,52.677,Centro
+2005,Marche,1.83,0.39,36.5194,Centro
+2005,Lazio,-6.41,0.05,53.3801,Centro
+2005,Abruzzo,-6.82,0.14,11.5384,Centro
+2005,Molise,-30.61,0.22,44.4374,Sud
+2005,Campania,3.95,0.12,43.1896,Sud
+2005,Puglia,1.0,0.38,35.5222,Sud
+2005,Basilicata,5.56,0.02,91.1654,Sud
+2005,Calabria,-2.57,0.14,21.2996,Sud
+2005,Sicilia,3.74,0.52,23.9534,Isole
+2005,Sardegna,5.58,0.33,27.9552,Isole
+2006,Piemonte,14.17,0.0,38.0795,Nord-ovest
+2006,Valle d'Aosta,0.0,0.01,241.5206,Nord-ovest
+2006,Lombardia,10.04,0.01,83.4762,Nord-ovest
+2006,Trentino-Alto Adige,17.74,0.01,59.6962,Nord-est
+2006,Veneto,16.77,0.11,20.9117,Nord-est
+2006,Friuli-Venezia Giulia,-0.35,0.2,30.3755,Nord-est
+2006,Liguria,-5.14,0.17,27.7297,Nord-ovest
+2006,Emilia-Romagna,-6.08,0.12,35.8085,Nord-est
+2006,Toscana,-0.71,0.06,54.9113,Centro
+2006,Umbria,16.67,0.02,55.8381,Centro
+2006,Marche,0.17,0.38,36.5583,Centro
+2006,Lazio,11.9,0.05,53.3955,Centro
+2006,Abruzzo,-0.98,0.13,12.8274,Centro
+2006,Molise,10.0,0.21,68.3264,Sud
+2006,Campania,-4.44,0.12,30.9802,Sud
+2006,Puglia,0.15,0.37,31.8578,Sud
+2006,Basilicata,231.58,0.02,86.9494,Sud
+2006,Calabria,7.06,0.14,20.1019,Sud
+2006,Sicilia,7.7,0.48,21.409,Isole
+2006,Sardegna,-0.93,0.35,21.4673,Isole
+2007,Piemonte,2.92,0.0,35.62,Nord-ovest
+2007,Valle d'Aosta,0.0,0.01,257.9651,Nord-ovest
+2007,Lombardia,13.89,0.01,81.2041,Nord-ovest
+2007,Trentino-Alto Adige,8.22,0.02,53.958,Nord-est
+2007,Veneto,9.33,0.13,20.7911,Nord-est
+2007,Friuli-Venezia Giulia,1.51,0.22,33.1418,Nord-est
+2007,Liguria,6.38,0.15,25.8747,Nord-ovest
+2007,Emilia-Romagna,5.93,0.07,42.3957,Nord-est
+2007,Toscana,-0.51,0.06,56.5092,Centro
+2007,Umbria,4.29,0.02,60.2484,Centro
+2007,Marche,-4.48,0.32,37.9052,Centro
+2007,Lazio,-2.33,0.06,57.5403,Centro
+2007,Abruzzo,-1.45,0.15,11.8401,Centro
+2007,Molise,-1.6,0.22,53.1727,Sud
+2007,Campania,-1.68,0.11,39.9744,Sud
+2007,Puglia,4.52,0.48,35.2869,Sud
+2007,Basilicata,7.94,0.01,19.7479,Sud
+2007,Calabria,-2.66,0.21,25.8001,Sud
+2007,Sicilia,-1.23,0.52,19.1097,Isole
+2007,Sardegna,-4.19,0.36,25.4871,Isole
+2008,Piemonte,-7.09,0.01,46.7529,Nord-ovest
+2008,Valle d'Aosta,-1.64,0.01,286.7208,Nord-ovest
+2008,Lombardia,-24.04,0.01,78.814,Nord-ovest
+2008,Trentino-Alto Adige,-32.91,0.02,66.4505,Nord-est
+2008,Veneto,7.86,0.11,17.2561,Nord-est
+2008,Friuli-Venezia Giulia,-13.2,0.22,31.1676,Nord-est
+2008,Liguria,-4.96,0.14,28.6017,Nord-ovest
+2008,Emilia-Romagna,-2.76,0.07,59.6104,Nord-est
+2008,Toscana,-20.88,0.06,66.4219,Centro
+2008,Umbria,-54.79,0.03,50.0175,Centro
+2008,Marche,6.03,0.3,32.2652,Centro
+2008,Lazio,-25.8,0.05,44.7548,Centro
+2008,Abruzzo,2.89,0.13,6.0684,Centro
+2008,Molise,-16.3,0.21,32.1141,Sud
+2008,Campania,-7.02,0.1,55.8497,Sud
+2008,Puglia,-0.75,0.46,35.1173,Sud
+2008,Basilicata,-64.71,0.01,22.4378,Sud
+2008,Calabria,-12.7,0.16,26.5647,Sud
+2008,Sicilia,-1.56,0.46,16.2612,Isole
+2008,Sardegna,3.85,0.33,27.9797,Isole
+2009,Piemonte,-76.34,0.0,47.2379,Nord-ovest
+2009,Valle d'Aosta,-1.64,0.01,40.0358,Nord-ovest
+2009,Lombardia,-10.09,0.01,97.8172,Nord-ovest
+2009,Trentino-Alto Adige,11.32,0.01,93.1295,Nord-est
+2009,Veneto,9.47,0.1,15.3837,Nord-est
+2009,Friuli-Venezia Giulia,-11.78,0.17,31.5013,Nord-est
+2009,Liguria,-12.47,0.11,27.6521,Nord-ovest
+2009,Emilia-Romagna,-51.47,0.05,56.5868,Nord-est
+2009,Toscana,3.62,0.05,69.4411,Centro
+2009,Umbria,-9.09,0.02,103.44,Centro
+2009,Marche,13.88,0.24,27.563,Centro
+2009,Lazio,5.63,0.03,45.8418,Centro
+2009,Abruzzo,-1.22,0.07,4.3062,Centro
+2009,Molise,-7.79,0.21,42.4943,Sud
+2009,Campania,3.35,0.07,45.216,Sud
+2009,Puglia,15.86,0.35,29.4288,Sud
+2009,Basilicata,25.0,0.01,63.3382,Sud
+2009,Calabria,8.86,0.1,22.4602,Sud
+2009,Sicilia,9.85,0.31,12.8835,Isole
+2009,Sardegna,7.86,0.25,23.7629,Isole
+2010,Piemonte,-3.23,0.01,197.9233,Nord-ovest
+2010,Valle d'Aosta,-1.64,0.01,40.0358,Nord-ovest
+2010,Lombardia,-8.16,0.01,106.583,Nord-ovest
+2010,Trentino-Alto Adige,-22.03,0.01,82.701,Nord-est
+2010,Veneto,-8.48,0.11,13.6469,Nord-est
+2010,Friuli-Venezia Giulia,-9.01,0.17,34.1203,Nord-est
+2010,Liguria,-14.41,0.14,33.7696,Nord-ovest
+2010,Emilia-Romagna,-7.63,0.06,116.0438,Nord-est
+2010,Toscana,-3.12,0.05,73.5061,Centro
+2010,Umbria,-13.33,0.03,113.0168,Centro
+2010,Marche,-9.57,0.26,24.2761,Centro
+2010,Lazio,-12.08,0.04,50.7767,Centro
+2010,Abruzzo,-6.64,0.11,5.7345,Centro
+2010,Molise,-16.2,0.25,51.8234,Sud
+2010,Campania,-0.82,0.08,48.7858,Sud
+2010,Puglia,-5.74,0.44,29.8685,Sud
+2010,Basilicata,0.0,0.01,60.7387,Sud
+2010,Calabria,-4.79,0.13,27.0846,Sud
+2010,Sicilia,-4.8,0.36,14.1352,Isole
+2010,Sardegna,-11.41,0.27,23.4795,Isole
+2011,Piemonte,-3.33,0.0,202.281,Nord-ovest
+2011,Valle d'Aosta,-1.64,0.01,40.0358,Nord-ovest
+2011,Lombardia,-36.67,0.01,114.5955,Nord-ovest
+2011,Trentino-Alto Adige,-34.78,0.01,104.5943,Nord-est
+2011,Veneto,-2.48,0.1,14.1117,Nord-est
+2011,Friuli-Venezia Giulia,-12.46,0.16,37.5311,Nord-est
+2011,Liguria,11.2,0.14,39.1639,Nord-ovest
+2011,Emilia-Romagna,-9.67,0.06,117.0091,Nord-est
+2011,Toscana,-10.31,0.05,76.9646,Centro
+2011,Umbria,-3.85,0.02,129.5519,Centro
+2011,Marche,-4.37,0.27,25.392,Centro
+2011,Lazio,0.87,0.04,56.682,Centro
+2011,Abruzzo,4.46,0.1,5.8832,Centro
+2011,Molise,-13.45,0.25,61.4712,Sud
+2011,Campania,-4.49,0.09,47.4528,Sud
+2011,Puglia,-0.87,0.44,31.3426,Sud
+2011,Basilicata,-3.33,0.01,62.2134,Sud
+2011,Calabria,0.89,0.14,28.1953,Sud
+2011,Sicilia,5.17,0.39,14.6727,Isole
+2011,Sardegna,-2.59,0.3,27.0115,Isole
+2012,Piemonte,-17.24,0.0,165.3924,Nord-ovest
+2012,Valle d'Aosta,-1.64,0.01,40.0358,Nord-ovest
+2012,Lombardia,-19.3,0.01,142.7117,Nord-ovest
+2012,Trentino-Alto Adige,63.33,0.01,126.3844,Nord-est
+2012,Veneto,7.54,0.09,11.6159,Nord-est
+2012,Friuli-Venezia Giulia,-11.39,0.15,35.57,Nord-est
+2012,Liguria,-8.71,0.13,35.0618,Nord-ovest
+2012,Emilia-Romagna,-2.14,0.05,123.9431,Nord-est
+2012,Toscana,-7.04,0.05,76.4287,Centro
+2012,Umbria,-24.0,0.02,107.8949,Centro
+2012,Marche,-9.6,0.23,23.4839,Centro
+2012,Lazio,-4.72,0.04,51.7673,Centro
+2012,Abruzzo,-5.54,0.09,5.152,Centro
+2012,Molise,8.74,0.24,65.0482,Sud
+2012,Campania,-0.68,0.09,45.0624,Sud
+2012,Puglia,-1.26,0.4,27.0511,Sud
+2012,Basilicata,-17.24,0.01,48.3853,Sud
+2012,Calabria,-12.13,0.13,27.9066,Sud
+2012,Sicilia,-0.79,0.36,12.7831,Isole
+2012,Sardegna,-0.17,0.31,27.4075,Isole

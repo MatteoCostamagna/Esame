@@ -1,0 +1,15 @@
+Come installare vscode
+Installare vscode
+installare python --> checko path
+poi a terminale --> python -m venv venv
+venv\Scripts\activate --> se da errrore cambio permessi
+-Set-ExecutionPolicy RemoteSigned
+-Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+--> poi rilancio venv\Scripts\activate
+
+x i requirements
+pip install requirements.txt
+
+installo sqlite explorer
+
+Progetto python
