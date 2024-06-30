@@ -1,0 +1,62 @@
+Per un progetto java bisogna
+
+spring boot
+misto mvc rest 
+
+spring inizalizer --> start.spring.io
+maven
+java
+vers 17
+group com.costamagna
+nome pokemno
+dipendenze
+spring web
+spring boot dev tools
+thimeleeaf
+my sql driver
+spring data jpa
+
+new spring project 
+import 
+poi selez sprinfg boot
+
+oppure 
+import maven project e scelgo cartella creata
+
+cambio application properties
+spring.application.name=pokemon
+
+spring.datasource.url=jdbc:mysql://localhost:8081/Pokemon
+spring.datasource.username=root
+spring.datasource.password=
+
+spring.jpa.show-sql=true
+
+server.port=9010
+
+spring.sql.init.mode=always
+
+
+e creo db
+senno faccio a mano
+
+creo cartelle
+repos
+entities
+services
+controller
+
+poi in entities
+creo le entita gli ogg
+quindi metto entiti sopra a nome classe e metto table(x mettere nome della tabella vero)
+
+poi metto i campi della tabella
+@id per l'id e poi private string nome;
+
+
+
+
+
+
+
+

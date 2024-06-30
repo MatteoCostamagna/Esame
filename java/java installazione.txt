@@ -1,0 +1,15 @@
+Cosa installare per prog java
+- eclipse --> eclipse ide for enterprise java developers
+- xamp
+
+
+Come fare un progetto java
+progetto si divide in 
+application properties in cui bisogna inserire questo -->
+in quel punto si mette anche l'sql e html
+
+creare 4 cartelle
+entities --> si descrivono le entities del db (inserire comandi)
+integraion --> controller rest o controller
+repo --> dao di ogni entities che extend jpa repositories
+services --> services e services impl (con nome metodi e con i metodi effettivi)
