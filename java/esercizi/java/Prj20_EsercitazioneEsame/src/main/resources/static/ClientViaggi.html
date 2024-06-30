@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>Viaggi</h1>
+	<!--<form action="">-->
+		<input type="text" id="partenza" placeholder="partenza"></imput>
+		<br>
+		<input type="text" id="destinazione" placeholder="destinazione"></imput>
+		<br>
+		<button onclick="Aggiungi()">Add</button>
+	<!--</form>-->
+	<script>
+		const URL = "http://localhost:9015/api/viaggi"
+			function Aggiungi() {
+				const Viaggio={
+					id:1000,
+					partenza:document.getElementById('partenza').value,
+					destinazione:document.getElementById('destinazione').value,
+					durata:4
+				}
+
+				fetch(URL,{
+					method:"Post",
+					headers: {
+      						"Content-Type": "application/json",
+      						// 'Content-Type': 'application/x-www-form-urlencoded',
+   					 },
+					body:JSON.stringify(Viaggio)
+				})
+				.then(risposta => risposta.json())
+				.then(risposta => {init()})
+			}
+			function init(){
+				
+		fetch(URL)
+			.then(res => res.json())
+			.then(risposta => {
+				const tab=document.getElementsByName("table")
+				if(tab.length>0){
+					tab[0].remove()
+				}
+				//console.log(risposta);
+				const Tabella=document.createElement('table');
+				for (const viaggio of risposta){
+					console.log(viaggio.destinazione);
+					const Riga=document.createElement('tr')
+					const Cellauno=document.createElement('td')
+					const Celladue=document.createElement('td')
+					Cellauno.textContent=viaggio.partenza
+					Celladue.textContent=viaggio.destinazione
+					Riga.append(Cellauno,Celladue)
+					Tabella.append(Riga)
+				}
+				document.body.append(Tabella)
+			})
+			}
+			document.body.onload=init
+	</script>
+</body>
+</html>
