@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="ISO-8859-1">
+	<title>Insert title here</title>
+	<style>
+		#sx {
+			width: 200px;
+			min-height:800px;
+			border-right: 0px solid red;
+			float: left;
+		}
+
+		#dx {
+			width: 600px;
+			padding-left: 10px;
+		}
+	</style>
+</head>
+
+<body>
+	<h1>Quiz</h1>
+
+	<div id="sx">
+		<ul id="regioni"></ul>
+	</div>
+
+	<div id="dx">
+		<ul id="paesi"></ul>
+	</div>
+
+	<script>
+		const regioni = document.getElementById('regioni')
+		const paesi = document.getElementById('paesi')
+		const URL_REGIONI = '/api/regioni'
+		const URL_PAESI = '/api/paesi'
+
+		fetch(URL_REGIONI)
+			.then(res => res.json())
+			.then(regions => {
+				for (const regione of regions) {
+
+					const LI = document.createElement('li')
+					LI.textContent = regione
+
+					LI.onclick = function () {
+						fetch(URL_PAESI + '/' + regione)
+							.then(res => res.json())
+							.then(paesis => {
+								paesi.innerHTML = ''
+								for (const paese of paesis) {
+									const LI = document.createElement('li')
+									LI.textContent = paese.name
+									paesi.append(LI)
+								}
+							})
+					}
+
+					regioni.append(LI)
+
+
+				}
+			})
+
+
+	</script>
+
+
+</body>
+
+</html>

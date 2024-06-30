@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Insert title here</title>
+<style type="text/css">
+	#output img {
+		width: 140px;
+	}
+</style>
+</head>
+<body>
+
+	<h1>Tutti i pokemon</h1>
+
+	<div id="output"></div>
+	
+	<script type="text/javascript">
+	
+		const url = '/api/pokepict'
+		const output = document.getElementById('output')
+
+		fetch(url)
+			.then(risposta => risposta.json())
+			.then(collezione => {
+				
+				for (const pokemon of collezione){
+					
+					const img = document.createElement('img')
+					img.src = pokemon.picture
+					
+					output.append(img)
+					
+				}
+				
+			})
+		
+	</script>
+	
+
+</body>
+</html>
